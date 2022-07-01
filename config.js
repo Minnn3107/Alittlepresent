@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    titleWeb: "HAPPY BIRTHDAY",
+    introTitle: 'Lê Trung Kiên',
+    introDesc: `Ngày này nhiều năm trước
+    Có một chú mèo lười
+    Mỉm cười với tháng 7
+    Chào cuộc đời an nhiên`,
+    btnIntro: '^^HiHi 02.07.2022^^',
+    title: 'Chúc cậu sinh nhật vui vẻ nhé 🥰',
+    desc: 'Tớ biết cậu đang cười nè ',
+    btnYes: 'Cậu cười đẹp lắm, cười lên nào <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    question: 'Có thể cậu sẽ làm được rất nhiều điều giữa năm tháng dài rộng phía trước, nhưng sẽ có 1 việc cậu ko làm đc :3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    reply: 'Đó là cậu sẽ không bao giờ cô đơn <33333333',
+    mess: 'Chúc cậu sẽ làm được tất cả điều mình mơ ước 🥰. Dù sau này có khó khăn thế nào hay bất kỳ ai bên cạnh cậu, tớ cũng luôn mong cậu tìm được hạnh phúc và bình an nhé 😘😘',
+    messDesc: 'Rồi tất cả sẽ ổn thôi. Sinh nhật siêu vui vẻ nha, chú mèo béo',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://github.com/zukahai/Confess' //
 }
