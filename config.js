@@ -13,8 +13,8 @@ const CONFIG = {
     question: 'Có thể cậu sẽ làm được rất nhiều điều giữa năm tháng dài rộng phía trước, nhưng sẽ có 1 việc cậu ko làm đc :3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Đó là cậu sẽ không bao giờ cô đơn <33333333',
-    mess: 'Chúc cậu sẽ làm được tất cả điều mình mơ ước 🥰. Dù sau này có khó khăn thế nào hay bất kỳ ai bên cạnh cậu, tớ cũng luôn mong cậu tìm được hạnh phúc và bình an nhé 😘😘',
+    mess: 'Chúc cậu sẽ làm được tất cả điều mình mơ ước 🥰. Dù sau này có khó khăn thế nào, tớ cũng luôn mong cậu tìm được hạnh phúc và bình an nhé 😘😘',
     messDesc: 'Rồi tất cả sẽ ổn thôi. Sinh nhật siêu vui vẻ nha, chú mèo béo',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess' //
+    messLink: 'https://github.com/zukahai/Confess-Crush' //
 }
